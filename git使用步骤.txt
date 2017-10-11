@@ -1,0 +1,19 @@
+Git使用步骤
+1.配置身份
+  git config --global user.name "Tony"
+  git config --global user.email "tony@email.com"
+  git config --global user.name
+  git config --global user.email
+2.切换到库目录
+  cd c:
+  cd user/administer
+3.初始化
+  git init
+4.提交本地代码
+  git add xx(文件或文件夹)
+  git add .
+  git commit -m "first commit"
+5.将远程版本克隆到本地
+  git clone http://xxxxxxx
+6.将本地工程添加到版本控制中
+  cp -af coolweather ../ 将远程目录中的文件复制到上一目录
