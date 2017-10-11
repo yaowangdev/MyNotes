@@ -1,0 +1,10 @@
+1.Android之实现系统联系人软件的分组和字母提示效果
+  http://blog.csdn.net/jie1991liu/article/details/16851811
+2.安卓自定义View教程目录
+  http://www.gcssloop.com/customview/CustomViewIndex/
+3.Android：最全面的 Webview 详解
+  http://blog.csdn.net/carson_ho/article/details/52693322
+4.Android：你要的WebView与 JS 交互方式 都在这里了
+  http://blog.csdn.net/carson_ho/article/details/64904691
+5.Android 中的缓存机制与实现
+  http://www.cnblogs.com/jerehedu/p/4263649.html
