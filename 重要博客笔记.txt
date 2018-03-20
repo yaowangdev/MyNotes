@@ -8,5 +8,3 @@
   http://blog.csdn.net/carson_ho/article/details/64904691
 5.Android 中的缓存机制与实现
   http://www.cnblogs.com/jerehedu/p/4263649.html
-
-Hel 。。
